@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi cho em <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'mik biết mà 🥰. Yêu bn nhiều nhiều 😘😘',
-    messDesc: 'lm ngiu mik nka.',
+    messDesc: 'lm ngiu mik nka',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://thayghet.com/zukahai/Confess-anh' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
